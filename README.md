@@ -28,6 +28,7 @@
 | Projet | En bref | Stack |
 |---|---|---|
 | [**Où faire le plein**](https://github.com/tanim-veer/ou-faire-le-plein) · [démo](https://ou-faire-le-plein.onrender.com) | Trouve la station la moins chère en comptant le vrai détour routier, à partir des données ouvertes du gouvernement | Python · FastAPI · OSRM |
+| [**Observatoire des carburants**](https://github.com/tanim-veer/observatoire-carburants) | Base PostgreSQL de 5,3 millions de prix officiels : modélisation, ETL, contrôle qualité, analyses SQL | PostgreSQL · SQL · Docker |
 | [**Vigie**](https://github.com/tanim-veer/vigie) | Surveille une machine Linux via `/proc` et détecte les anomalies en temps réel (z-score, Isolation Forest) | Python · scikit-learn · FastAPI |
 | [**Infrastructure VPN WireGuard**](https://github.com/tanim-veer/wireguard-vpn-infrastructure) | Tunnel chiffré Windows ↔ Ubuntu et API qui génère les configurations clients | Python · FastAPI · Linux |
 | [**Moteur d'échecs UCI**](https://github.com/tanim-veer/java_jeu_d-echec) | Moteur pour la finale Roi + Tour, compatible ChessX, en Clean Architecture et testé *(équipe de 4)* | Java |
