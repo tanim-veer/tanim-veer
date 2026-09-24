@@ -42,7 +42,7 @@ Tous mes projets, avec des visuels : **[tanim-veer.fr](https://tanim-veer.fr)**
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tanim--veer.fr-f5b60d?style=for-the-badge)](https://tanim-veer.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanim_Veer-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanim-veer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanim_Veer-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanim-veer-06a89222b/)
 [![Email](https://img.shields.io/badge/Email-veertanim@gmail.com-2fbd6b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veertanim@gmail.com)
 
 </div>
